@@ -1,0 +1,6 @@
+@FilmkveldAPI_HostAddress = http://localhost:5008
+
+GET {{FilmkveldAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
